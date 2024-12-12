@@ -1,0 +1,10 @@
+nav {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
+
+span {
+  font-weight: bold;
+  font-size: 1.8rem;
+}
